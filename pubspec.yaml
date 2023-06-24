@@ -20,7 +20,9 @@ dependencies:
   printing: ^5.6.6
   win32: ^2.3.1
   ffi: ^1.1.2
-  flutter_usb_printer:  ^0.1.0
+  flutter_usb_printer:
+    git:
+      url: https://github.com/correaignacio/flutter_usb_printer
 
 dev_dependencies:
   flutter_test:
