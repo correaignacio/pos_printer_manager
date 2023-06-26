@@ -19,7 +19,7 @@ dependencies:
   easy_logger: ^0.0.2
   printing: ^5.6.6
   win32: ^2.3.1
-  ffi: ^1.1.2
+  ffi: ^2.0.1
   flutter_usb_printer:
     git:
       url: https://github.com/correaignacio/flutter_usb_printer
